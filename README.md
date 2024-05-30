@@ -1,3 +1,7 @@
+# Reference
+[React Project Tutorial: Build a Responsive Portfolio Website w/ Advanced Animations
+](https://www.youtube.com/watch?v=hYv6BM2fWd8&list=PLR5hyNmtMEJt_FjWGjzejvIJcBAGEWn_o&index=3&t=2353s)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
