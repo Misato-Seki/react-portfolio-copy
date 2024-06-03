@@ -31,7 +31,7 @@ function Skills() {
         <section className='skill' id='skills'>
             <Container>
                 <Row>
-                    <Col>
+                    <Col size={12}>
                         <div className='skill-bx'>
                             <h2>Skills</h2>
                             <p>test test test test test test test test test test test test test test test test </p>
